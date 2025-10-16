@@ -1,0 +1,29 @@
+Sentiment,Count of Platform,,,Country,Count of Platform,Sum of Retweets,Sum of Likes,Count of Hashtags,Count of Sentiment,,Country,Count of Platform,Sum of Retweets,Sum of Likes,Count of Hashtags,Count of Sentiment,,Year,Month,Day,Sum of Hour
+ Contentment ,14,,, Australia ,41,823,1645,41,41,, Australia ,2,42,85,2,2,,2010,,,25
+ Curiosity ,8,,, Canada,44,1042,2054,44,44,, Brazil ,1,28,55,1,1,,2011,6,20,14
+ Embarrassed ,8,,, Canada ,34,733,1472,34,34,, Canada,1,18,35,1,1,,,6 Total,,14
+ Excitement ,32,,, Canada        ,17,216,437,17,17,, France ,2,50,100,2,2,,,7,,18
+ Gratitude ,9,,, India ,21,394,790,21,21,, Japan ,1,28,55,1,1,,,8,28,18
+ Happy ,14,,, UK,49,1151,2272,49,49,, Kenya ,1,22,45,1,1,,,8 Total,,18
+ Hopeful ,9,,, UK ,33,640,1279,33,33,, USA ,1,25,50,1,1,,,9,22,19
+ Joy ,42,,, USA,59,1337,2655,59,59,,Grand Total,9,213,425,9,9,,,9 Total,,19
+ Neutral ,14,,, USA ,55,1376,2747,55,55,,,,,,,,,2011 Total,,,69
+ Positive  ,44,,, USA          ,20,315,631,20,20,,,,,,,,,2012,2,18,14
+ Sad ,9,,,Grand Total,373,8027,15982,373,373,,,,,,,,,,2 Total,,14
+Grand Total,203,,,,,,,,,,,,,,,,,,3,10,8
+,,,,,,,,,,,,,,,,,,,,30,11
+,,,,,,,,,,,,,,,,,,,3 Total,,19
+,,,,,,,,,,,,,,,,,,2012 Total,,,33
+,,,,,,,,,,,,,,,,,,2013,4,5,19
+,,,,,,,,,,,,,,,,,,,,20,10
+,,,,,,,,,,,,,,,,,,,4 Total,,29
+,,,,,,,,,,,,,,,,,,,10,5,16
+,,,,,,,,,,,,,,,,,,,10 Total,,16
+,,,,,,,,,,,,,,,,,,2013 Total,,,45
+,,,,,,,,,,,,,,,,,,2014,6,3,8
+,,,,,,,,,,,,,,,,,,,6 Total,,8
+,,,,,,,,,,,,,,,,,,,7,,24
+,,,,,,,,,,,,,,,,,,,9,14,8
+,,,,,,,,,,,,,,,,,,,9 Total,,8
+,,,,,,,,,,,,,,,,,,2014 Total,,,40
+,,,,,,,,,,,,,,,,,,Grand Total,,,212
